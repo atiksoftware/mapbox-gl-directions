@@ -58,7 +58,7 @@
     "insert-css": "^2.0.0",
     "json-loader": "^0.5.7",
     "lodash.once": "^4.0.0",
-    "mapbox-gl": "^0.41.0",
+    "mapbox-gl": "^2.15.0",
     "smokestack": "^3.6.0",
     "tap-status": "^1.0.1",
     "tape": "^4.6.0",
